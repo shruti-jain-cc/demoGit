@@ -30,6 +30,8 @@ public class WebElementSession4 {
 		hotel.sendKeys(Keys.PAGE_DOWN);
 		
 		
+		
+		
 	}
 
 }
